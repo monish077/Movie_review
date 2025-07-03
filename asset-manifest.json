@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monish077/Movie_review/static/css/main.4e477968.css",
+    "main.js": "/monish077/Movie_review/static/js/main.c10e2773.js",
+    "static/js/453.abde4f14.chunk.js": "/monish077/Movie_review/static/js/453.abde4f14.chunk.js",
+    "index.html": "/monish077/Movie_review/index.html",
+    "main.4e477968.css.map": "/monish077/Movie_review/static/css/main.4e477968.css.map",
+    "main.c10e2773.js.map": "/monish077/Movie_review/static/js/main.c10e2773.js.map",
+    "453.abde4f14.chunk.js.map": "/monish077/Movie_review/static/js/453.abde4f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e477968.css",
+    "static/js/main.c10e2773.js"
+  ]
+}
